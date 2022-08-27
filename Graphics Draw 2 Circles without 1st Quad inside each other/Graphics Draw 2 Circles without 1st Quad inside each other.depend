@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637530344 source:c:\users\sarah hesham\onedrive\documents\c++\graphics draw 2 circles without 1st quad inside each other\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
