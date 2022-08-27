@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1641072869 source:c:\users\sarah hesham\onedrive\documents\c++\graphics 2d project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<iostream>
+	<fstream>
+
