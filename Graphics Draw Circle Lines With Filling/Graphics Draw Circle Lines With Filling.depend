@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637593327 source:c:\users\sarah hesham\onedrive\documents\c++\graphics draw circle lines with filling\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
