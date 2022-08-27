@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637526179 source:c:\users\sarah hesham\onedrive\documents\c++\graphics circle lines\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
