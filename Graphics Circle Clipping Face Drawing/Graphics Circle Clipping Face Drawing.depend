@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640701274 source:c:\users\sarah hesham\onedrive\documents\c++\graphics circle clipping face drawing\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<iostream>
+
