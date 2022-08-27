@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640168420 source:c:\users\sarah hesham\onedrive\documents\c++\graphics general polygon filling\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<list>
+
