@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636153468 source:c:\users\sarah hesham\onedrive\documents\c++\graphics circle draw polar direct\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
