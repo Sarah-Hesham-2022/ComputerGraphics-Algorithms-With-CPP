@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640166707 source:c:\users\sarah hesham\onedrive\documents\c++\graphics convex polygon draw from pdf\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
