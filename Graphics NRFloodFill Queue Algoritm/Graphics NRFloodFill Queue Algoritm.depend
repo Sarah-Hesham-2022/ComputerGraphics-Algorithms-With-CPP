@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641565099 source:c:\users\sarah hesham\onedrive\documents\c++\graphics nrfloodfill queue algoritm\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<queue>
+
