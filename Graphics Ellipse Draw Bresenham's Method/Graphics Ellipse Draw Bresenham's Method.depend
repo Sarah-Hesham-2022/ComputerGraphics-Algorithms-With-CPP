@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637186095 source:c:\users\sarah hesham\onedrive\documents\c++\graphics ellipse draw bresenham's method\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
