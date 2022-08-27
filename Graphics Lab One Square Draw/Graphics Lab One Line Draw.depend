@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635628333 source:c:\users\sarah hesham\onedrive\documents\c++\graphics lab one line draw\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
