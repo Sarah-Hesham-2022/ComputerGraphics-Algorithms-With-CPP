@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639132411 source:c:\users\sarah hesham\onedrive\documents\c++\graphics determine whether convex polygon or not\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+
