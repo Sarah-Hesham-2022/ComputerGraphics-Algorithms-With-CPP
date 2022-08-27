@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637594148 source:c:\users\sarah hesham\onedrive\documents\c++\graphics two circles touching and a line\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
