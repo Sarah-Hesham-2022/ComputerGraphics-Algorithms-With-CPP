@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636560673 source:c:\users\sarah hesham\onedrive\documents\c++\graphics ellipse draw polar equation\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
