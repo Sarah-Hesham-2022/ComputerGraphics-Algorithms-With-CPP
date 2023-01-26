@@ -1,8 +1,7 @@
 # CPP
+-My favorite and the most important repository I have made, the most one I am proud of :) .
 
 -C++ Projects Codes.
-
--My favorite and the most important repository I have made :) .
 
 -Computer Graphics built using Win32 Desktop Applications with C++ .
 
