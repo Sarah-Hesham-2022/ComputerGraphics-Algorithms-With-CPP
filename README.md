@@ -12,3 +12,7 @@
 -Implementing the most famous computer graphics algorithms from scratch.
 
 -ComputerGraphics-Algorithms-With-C++ .
+
+https://github.com/Sarah-Hesham-2022/ComputerGraphics2D_Win32_Desktop_Project
+
+https://github.com/Sarah-Hesham-2022/ComputerGraphics-Face-Drawing-Clipping
